@@ -3,6 +3,7 @@ import matplotlib.image as mpimg
 import numpy as np
 import cv2
 
+
 image = mpimg.imread('test6.jpg') 
 
 # Define a function that thresholds the S-channel of HLS
